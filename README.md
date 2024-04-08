@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @leemorgan03
 - 👀 I’m interested in collaborating with other programmers and learning new skills.
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on mobile apps, websites, and UIX designs. 
 - 📫 How to reach me email, text, or call!
 
