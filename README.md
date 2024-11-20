@@ -6,4 +6,8 @@
 <!---
 leemorgan03/leemorgan03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+## Table of Contents
+- [How to Create Your Profile?](#how-to-create-your-profile)
+- [How to Customize Markdown files?](#how-to-customize-markdown-files)
+- [How to Create New Repository?](#how-to-create-new-repository)
 --->
